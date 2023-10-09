@@ -532,11 +532,8 @@ footer{
     display: block;
 
     height: 416px;
-    background-image: url('footer.png');
+    background-image: url('Footer.png');
     background-size: cover;
-}
-.bottom img{
-    
 }
 .bottom h3{
     font-family: 'Overpass';
@@ -550,6 +547,7 @@ footer{
     display: flex;
     color: white;
     justify-content: space-between;
+    margin: 0px 120px;
 }
 .bottom-cr h4{
     font-family: Overpass;
@@ -560,9 +558,4 @@ footer{
     padding-left: 2vh;
     color: white;
 
-}
-.follow{
-}
-.follow img{
-    padding-top: 20px;
 }
